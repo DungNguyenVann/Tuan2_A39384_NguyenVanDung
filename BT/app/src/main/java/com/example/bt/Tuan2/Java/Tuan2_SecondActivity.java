@@ -1,4 +1,4 @@
-package com.example.bt.Tuan2;
+package com.example.bt.Tuan2.Java;
 
 import androidx.appcompat.app.AppCompatActivity;
 

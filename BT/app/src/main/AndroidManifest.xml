@@ -13,7 +13,7 @@
         android:theme="@style/Theme.BT"
         tools:targetApi="31">
         <activity
-            android:name=".Tuan2.Tuan2_ListViewMainActivity"
+            android:name=".Tuan2.Java.Tuan2_ListViewMainActivity"
             android:exported="true" >
 
             <intent-filter>
@@ -23,10 +23,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Tuan2.Tuan2_SecondActivity"
+            android:name=".Tuan2.Java.Tuan2_SecondActivity"
             android:exported="false" />
         <activity
-            android:name=".Tuan2.Tuan2_MainActivity"
+            android:name=".Tuan2.Java.Tuan2_MainActivity"
             android:exported="true">
 
         </activity>
